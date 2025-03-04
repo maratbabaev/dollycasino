@@ -651,7 +651,9 @@ header {
 
 .top__menu__row {
 	margin: 60px 0 27px;
-
+	display: flex;
+	align-items: center;
+	position: relative;
 	ul {
 		display: flex;
 		justify-content: space-between;
